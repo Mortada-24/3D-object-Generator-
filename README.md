@@ -24,7 +24,13 @@ upload png image with transperance backgrund
 
 generate the 3d object dynamically
 
-its need some updates to make the object realistic like put texture on them and many things i need to do
+its need some updates to make the object realistic like put texture on them and many things i need to do.
+
+Note: when it finished rendering you need to zoom out to see the 3d object so you need to use mouse scroll down 
+to control the zoom.
+
+use the arrows in the keyboard to rotate the object in x and y direction,
+use w , s , a , d button's to move the camera left and right, up and down.
 
 
 
